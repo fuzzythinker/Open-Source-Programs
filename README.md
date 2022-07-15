@@ -44,7 +44,7 @@
 | [Igalia Coding Experience Program](https://www.igalia.com/about-us/coding-experience)| Yes |[timeline](https://www.igalia.com/about-us/coding-experience) |
 | [Google Summer of Earth Engine](https://sites.google.com/view/summerofearthengine/home) | Yes |[timeline](https://sites.google.com/view/summerofearthengine/timeline?authuser=0) |
 | [Alibaba Summer of Code](https://developer.aliyun.com/special/summerofcode2019en) | Yes | [timeline](https://developer.aliyun.com/special/summerofcode2019en) |
-| [ICFOSS Fellowship Programme](https://icfoss.in/index.php/event/foss-innovation-fellowship-programme)  | Yes  |   [timeline](https://icfoss.in/index.php/event/foss-innovation-fellowship-programme)  |
+| [ICFOSS Fellowship Programme](https://icfoss.in/capacity-building/7)  | Yes  |   [timeline](https://icfoss.in/capacity-building/7)  |
 | [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)  | Yes  |   [timeline](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule)  |
 | [Community Bridge Mentorship (by Linux Foundation)](https://people.communitybridge.org/) | Yes |  |
 | [MLH Fellowship](https://fellowship.mlh.io/)| Yes |[timeline](https://fellowship.mlh.io/programs/prep)  |
